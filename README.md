@@ -8,7 +8,7 @@ A small **C project** that reads a CSV file and computes basic statistics for a 
 - Mean
 - Standard deviation
 
-This is a nice C portfolio project that demonstrates:
+My project demonstrates:
 
 - File I/O (`fopen`, `fgets`)
 - String parsing (`strtok_r`)
@@ -108,20 +108,3 @@ Max:     24.400000
 Mean:    20.840000
 Std dev: 3.036933
 ```
-
----
-
-## 🌟 Why this is good for GitHub
-
-This project shows that you can:
-
-- Write **clean C code** in a single-file utility
-- Work with **files and strings** safely
-- Implement a simple numeric algorithm (variance/std dev)
-- Provide a **Makefile** and a runnable example
-
-You can extend it with:
-
-- Support for choosing delimiter (comma / tab / semicolon)
-- Multiple columns at once
-- Writing results to a JSON or CSV report
